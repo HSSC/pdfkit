@@ -3,12 +3,12 @@ $:.push File.expand_path("../lib", __FILE__)
 require "pdfkit/version"
 
 Gem::Specification.new do |s|
-  s.name        = "pdfkit"
+  s.name        = "hssc_pdfkit"
   s.version     = PDFKit::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["Jared Pace", "Relevance"]
-  s.email       = ["jared@codewordstudios.com"]
-  s.homepage    = "https://github.com/pdfkit/pdfkit"
+  s.authors     = ["Andrew Cates", "Jared Pace", "Relevance"]
+  s.email       = ["catesa@musc.edu"]
+  s.homepage    = "https://github.com/HSSC/pdfkit"
   s.summary     = "HTML+CSS -> PDF"
   s.description = "Uses wkhtmltopdf to create PDFs using HTML"
 

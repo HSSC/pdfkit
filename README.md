@@ -1,3 +1,7 @@
+# What makes this version different
+
+Works with Mac OSX 10.8.4
+
 # PDFKit
 
 Create PDFs using plain old HTML+CSS. Uses [wkhtmltopdf](http://github.com/antialize/wkhtmltopdf) on the back-end which renders HTML using Webkit.
